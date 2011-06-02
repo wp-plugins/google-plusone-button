@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Google +1 button
-Plugin URI: http://fernando.alava.name/google-plusonegoogle-1-button-wordpress-plugin
+Plugin URI: http://fernando.alava.name/google-1-button-wordpress-plugin
 Description:
 Adds "Google +1 Button" after or before your post content. This plugin have an admin page so you can easily configure it.
 Google +1 Button introduced on http://www.google.com/webmasters/+1/button/index.html
