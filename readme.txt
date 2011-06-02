@@ -5,11 +5,11 @@ Requires at least: 3.0.0
 Tested up to: 3.1.3
 Stable tag: 1.0.0
 
-Adds "Google +1 Button" after or before your post content.
+Adds "Google +1 Button" after or before your post content with four different sizes
 
 == Description ==
 
-Adds "Google +1 Button" after or before your post content. This plugin have an admin page so you can easily configure it.
+Adds "Google +1 Button" after or before your post content with four different sizes. This plugin has an admin page so you can easily configure it.
 
 Google +1 Button introduced on http://www.google.com/webmasters/+1/button/index.html 
 
