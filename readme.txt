@@ -2,7 +2,7 @@
 
 Contributors: Fernando Alava
 Donate Link: http://fernando.alava.name/
-Tags: google, +1, plusone, google +1, google plusone, button, social
+Tags: +1, +1 button, plusone, google +1, google plusone, google,  button, social
 Requires at least: 3.0.0
 Tested up to: 3.1.3
 Stable tag: 1.0.0
