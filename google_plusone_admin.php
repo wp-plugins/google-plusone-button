@@ -37,7 +37,7 @@ if ( isset($_POST['submit']) ) {
               <option <?php if ($google_plusone_options['size'] == 'standard') echo $selected; ?> value="standard">Standard</option>
               <option <?php if ($google_plusone_options['size'] == 'small') echo $selected; ?> value="small">Small</option>
               <option <?php if ($google_plusone_options['size'] == 'medium') echo $selected; ?> value="medium">Medium</option>
-              <option <?php if ($google_plusone_options['size'] == 'large') echo $selected; ?> value="large">Large</option>
+              <option <?php if ($google_plusone_options['size'] == 'tall') echo $selected; ?> value="tall">Tall</option>
             </select>
           </td>
         </tr>
