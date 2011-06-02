@@ -27,4 +27,4 @@ Google +1 button introduced on http://www.google.com/webmasters/+1/button/index.
 * Change size from large to tall
 
 = 1.0.0 =
-* List versions from most recent at top to oldest at bottom.
+* Google +1 button
