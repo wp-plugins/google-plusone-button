@@ -13,7 +13,7 @@ Adds "Google +1 button" after or before your post content with four different si
 
 Adds "Google +1 button" after or before your post content with four different sizes. This plugin has an admin page so you can easily configure it.
 
-Google +1 Button introduced on http://www.google.com/webmasters/+1/button/index.html 
+Google +1 button introduced on http://www.google.com/webmasters/+1/button/index.html 
 
 == Installation ==
 
