@@ -5,7 +5,7 @@ Donate Link: http://fernando.alava.name/
 Tags: google, google +1, +1 button, plusone, google plusone
 Requires at least: 3.0.0
 Tested up to: 3.1.3
-Stable tag: 1.0.1
+Stable tag: trunk
 
 Adds "Google +1 button" after or before your post content with four different sizes.
 
