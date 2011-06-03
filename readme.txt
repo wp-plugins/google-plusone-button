@@ -12,7 +12,7 @@ Adds "Google +1 button" after or before your post content. Easy configuration.
 
 Adds "Google +1 button" after or before your post content.
 
-This plugin has an settings page so you can easily configure it.
+This plugin has a settings page so you can easily configure it.
 
 If you like this plugin please rate it. If you have a problem or suggestion please use the forum:
 
