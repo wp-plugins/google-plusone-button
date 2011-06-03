@@ -1,25 +1,36 @@
 === Google +1 button ===
 
 Contributors: Fernando Alava
-Donate Link: http://fernando.alava.name/
 Tags: google, google +1, +1 button, plusone, google plusone
 Requires at least: 3.0.0
 Tested up to: 3.1.3
 Stable tag: trunk
 
-Adds "Google +1 button" after or before your post content with four different sizes.
+Adds "Google +1 button" after or before your post content. Easy configuration.
 
 == Description ==
 
-Adds "Google +1 button" after or before your post content with four different sizes. This plugin has an admin page so you can easily configure it.
+Adds "Google +1 button" after or before your post content.
 
-Google +1 button introduced on http://www.google.com/webmasters/+1/button/index.html 
+This plugin has an settings page so you can easily configure it.
+
+If you like this plugin please rate it. If you have a problem or suggestion please use the forum:
+
+http://wordpress.org/tags/google-plusone-button?forum_id=10
 
 == Installation ==
 
 1. Unzip into your `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to admin panel, Settings > Google +1 and manage settings.
+3. Configure the plugin through the 'Settings > Google +1'  menu.
+
+== Frequently Asked Questions ==
+
+= I want to report a problem or make a suggestion  =
+
+Please use the forum:
+
+http://wordpress.org/tags/google-plusone-button?forum_id=10
 
 == Changelog ==
 
